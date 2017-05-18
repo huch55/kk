@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0, PRO TV Chișinău
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,Первый
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Pro TV
+http://109.185.159.215:4011/udp/239.100.0.7:5656
+#EXTINF:-1,Publika TV
+http://109.185.159.215:4011/udp/239.100.0.8:5656
+#EXTINF:-1,TVC 21
+http://109.185.159.215:4011/udp/239.100.0.9:5656
+#EXTINF:-1,Moldova 2
+http://109.185.159.215:4011/udp/239.100.0.10:5656
+#EXTINF:-1,TV 5
+http://109.185.159.215:4011/udp/239.100.0.11:5656
+#EXTINF:-1,CTC Dixi
+http://109.185.159.215:4011/udp/239.100.0.12:5656
+#EXTINF:-1,SET
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+#EXTINF:-1,Canal 3
+http://109.185.159.215:4011/udp/239.100.0.14:5656
+#EXTINF:-1,TVR1
+http://188.191.208.45:25008/tvr1
+#EXTINF:-1,TVR2
+http://188.191.208.45:25008/tvr2 
+#EXTINF:-1,Prime
+http://89.28.126.116:7777/play/a007
+#EXTINF:-1,Acasa Mold
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1,Digi24 galati
+http://81.196.0.126:80/digi24edge/digi24galatihq/index.m3u8
+#EXTINF:-1,Publica TV (Mold)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,Realitatea (Mold)
+http://web-tv.realitatea.md/web-tv/realitatea.m3u8
+#EXTINF:-1,1Music (Mold)
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Jurnal TV
+http://flux.jtv.md/jtv-360p.flv
